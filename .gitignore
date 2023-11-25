@@ -1,0 +1,10 @@
+node_modules
+.env
+build
+dist
+bin
+.env
+.DS_Store
+__*
+.turbo
+.env
